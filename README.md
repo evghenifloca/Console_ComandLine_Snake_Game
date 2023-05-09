@@ -16,6 +16,13 @@ To install the game, download the source code from Github, and open the solution
 
 Use the arrow keys to move the snake around the screen. The objective of the game is to eat as many apples as possible without running into the walls or the snake's own tail.
 
+## Screenshots
+
+![Main Screen](https://i.postimg.cc/1fdjYh4Q/Main-Screen.png)
+
+![Top Scores](https://i.postimg.cc/rDtYBntt/Top-Scores.png)
+
+
 ## Credits
 
 This game was created by Evgheni Floca. 
