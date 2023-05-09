@@ -18,10 +18,7 @@ Use the arrow keys to move the snake around the screen. The objective of the gam
 
 ## Screenshots
 
-![Main Screen](https://i.postimg.cc/1fdjYh4Q/Main-Screen.png)
-
-![Top Scores](https://i.postimg.cc/rDtYBntt/Top-Scores.png)
-
+![Main Screen](https://i.postimg.cc/1fdjYh4Q/Main-Screen.png) ![Top Scores](https://i.postimg.cc/rDtYBntt/Top-Scores.png)
 
 ## Credits
 
