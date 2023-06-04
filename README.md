@@ -21,6 +21,8 @@ Use the arrow keys to move the snake around the screen. The objective of the gam
 ![MAIN SCREEN](https://i.ibb.co/ftN800H/screenshot-1.png)
 ![TOP SCORES](https://i.ibb.co/cLwP3dd/screenshot-2.png)
 
+## Video
+[![Snake](https://img.youtube.com/vi/gCuoXTuKR94/0.jpg)](https://www.youtube.com/watch?v=gCuoXTuKR94)
 
 
 ## Credits
